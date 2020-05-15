@@ -8,7 +8,7 @@
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 /** Core Fancytree module.
@@ -2076,7 +2076,7 @@ function Fancytree(widget) {
 	// Add container to the TAB chain
 	// See http://www.w3.org/TR/wai-aria-practices/#focus_activedescendant
 	// #577: Allow to set tabindex to "0", "-1" and ""
-	this.$container.attr("tabindex", this.options.tabindex);
+	//this.$container.attr("tabindex", this.options.tabindex);
 	// this.$container.attr("tabindex", this.options.tabbable ? "0" : "-1");
 	if(this.options.aria){
 		this.$container
@@ -4904,7 +4904,7 @@ $.extend($.ui.fancytree,
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 // To keep the global namespace clean, we wrap everything in a closure
@@ -5103,7 +5103,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -5569,7 +5569,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -6138,7 +6138,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -6447,7 +6447,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -6794,7 +6794,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -6938,7 +6938,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -7140,7 +7140,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -7526,7 +7526,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -7968,7 +7968,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {
@@ -8044,7 +8044,7 @@ $.ui.fancytree.registerExtension({
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 ;(function($, window, document, undefined) {

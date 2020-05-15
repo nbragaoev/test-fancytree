@@ -20,7 +20,7 @@
  * https://github.com/mar10/fancytree/wiki/LicenseInfo
  *
  * @version 2.19.0
- * @date 2016-08-11T15:51
+ * @date 2020-05-15T13:37
  */
 
 // To keep the global namespace clean, we wrap everything in a closure

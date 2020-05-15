@@ -419,7 +419,7 @@ module.exports = (grunt) ->
       ]
   
   grunt.registerTask "make_release", [
-      "exec:tabfix"
+      #"exec:tabfix"
       "build"
       "clean:dist"
       "copy:dist"
