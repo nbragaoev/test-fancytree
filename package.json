@@ -34,7 +34,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "grunt": "^0.4.0",
+    "grunt": "^1.5.3",
     "grunt-contrib-clean": "^1.0.0",
     "grunt-contrib-compress": "^1.0.0",
     "grunt-contrib-concat": "^1.0.0",
